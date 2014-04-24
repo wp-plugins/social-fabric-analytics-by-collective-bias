@@ -95,7 +95,7 @@ INSTRUCTIONS;
         public function add_menu() {
             // Add a page to manage this plugin's settings
             add_options_page(
-                'Colective Bias Analytics Settings',
+                'Collective Bias Analytics Settings',
                 'Collective Bias Analytics',
                 'manage_options',
                 self::PLUGIN_NAME,
