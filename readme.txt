@@ -30,6 +30,10 @@ N/A
 
 == Changelog ==
 
+= 1.6 =
+* Change some indention
+* Moved inline comment to different area to fix certain themes
+
 = 1.0 =
 * Birthed
 
