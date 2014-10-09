@@ -30,6 +30,9 @@ N/A
 
 == Changelog ==
 
+= 1.7 =
+* Added formatting for the code to fix issues with some caches
+
 = 1.6 =
 * Change some indention
 * Moved inline comment to different area to fix certain themes
