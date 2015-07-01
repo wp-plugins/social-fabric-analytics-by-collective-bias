@@ -3,7 +3,7 @@ Contributors: chriswhittle,jonbeers,clintford,mattjacobson
 Donate link: http://collectivebias.com/
 Tags: social fabric, collective bias
 Requires at least: 3.0.0
-Tested up to: 3.9
+Tested up to: 4.2.2
 Stable tag: trunk
 
 Adds the custom code used for Social Fabric campaigns
